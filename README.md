@@ -1,8 +1,12 @@
 <h1> Kushal Ghosh </h1>
 I hail from Dhanbad, currently pursuing my Bachelor's degree at Birla Institute of Technology, Mesra.<br>
+
 I am currently a Senior / 4th Year Under - Graduate at college, with a major in Electronics and Communication Engineering.<br>
+
 I love Competitive Programming and Web Development, with great interest in Problem Solving.<br>
+
 An ambivert organism that turns pizza and caffeine into code. :p <br>
+
 
 Visit my website :- https://thekushalghosh.github.io <br>
 
