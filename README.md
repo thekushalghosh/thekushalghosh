@@ -8,13 +8,8 @@ I love Competitive Programming and Web Development, with great interest in Probl
 
 An ambivert organism that turns pizza and caffeine into code. :p <br>
 
-**<h2>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[Visit my website](https://thekushalghosh.github.io)
-</h2>**
+## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Visit my website](https://thekushalghosh.github.io)
+
 <br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -24,5 +19,3 @@ An ambivert organism that turns pizza and caffeine into code. :p <br>
 [![Facebook](https://img.shields.io/badge/-KushalGhosh-blue?style=social&logo=Facebook&link=https://www.facebook.com/thekushalghosh)](https://www.facebook.com/thekushalghosh) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Instagram](https://img.shields.io/badge/-KushalGhosh-blue?style=social&logo=Instagram&link=https://www.instagram.com/thekushalghosh)](https://www.instagram.com/thekushalghosh) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Youtube](https://img.shields.io/badge/-KushalGhosh-blue?style=social&logo=YOuTube&link=https://www.youtube.com/channel/UCFsWM_b8NMRPbN70p-xGG7g)](https://www.youtube.com/channel/UCFsWM_b8NMRPbN70p-xGG7g) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
-
-Thank You
